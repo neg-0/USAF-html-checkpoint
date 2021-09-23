@@ -1,3 +1,12 @@
 .login h1 {
     text-align: center;
 }
+
+.back-to-results {
+    background-color:#444444;
+}
+
+.back-to-results .alert-link {
+    color: #ffc107;
+    text-decoration: none;
+}
